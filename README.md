@@ -12,3 +12,4 @@ The original Workman-P proposal by OJ Bucao sought to reverse keys for backtick 
 Some of the original key mapping files written by OJ used Colemak positions for alternate/multi/dead key configurations, therefore all the configurations proposed by OJ on his wordpress blog have been modified and bug-fixed by David Norman and hosted at http://github.com/ojbucao/workman.
 
 Also **Capslocks will remain Capslocks in this repository!**
+**This is a Workman Layout with Capslocks as Capslocks mod**
