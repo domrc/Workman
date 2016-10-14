@@ -40,7 +40,7 @@ xkb_symbols "workman" {
     key <AB07> {  [   l,  L   ] };
     // End alphanumeric section
 
-    key <CAPS> { [    BackSpace,       Escape,       BackSpace,        BackSpace ] };
+    key <CAPS> { [    Caps_Lock,       Caps_Lock,       Caps_Lock,        Caps_Lock ] };
 
     include "level3(ralt_switch)"
 };
