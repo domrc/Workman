@@ -1,0 +1,61 @@
+# Workman keyboard mapping for the GRUB bootloader
+# Put this on top of your menu.lst file
+# For more information see http://www.workmanlayout.com/
+# Modified from file found at https://forum.colemak.com/topic/675-colemak-for-the-grub-bootloader/
+
+# reset to qwerty
+setkey
+
+# first row
+setkey d w
+setkey r e
+setkey w r
+setkey b t
+setkey j y
+setkey f u
+setkey u i
+setkey p o
+setkey semicolon p
+
+# second row
+setkey h d
+setkey t f
+setkey y h
+setkey n j
+setkey e k
+setkey o l
+setkey i semicolon
+
+# third row
+setkey m c
+setkey c v
+setkey v b
+setkey k n
+setkey l m
+
+# first row shifted
+setkey D W
+setkey R E
+setkey W R
+setkey B T
+setkey J Y
+setkey F U
+setkey U I
+setkey P O
+setkey colon P
+
+# second row shifted
+setkey H D
+setkey T F
+setkey Y H
+setkey N J
+setkey E K
+setkey O L
+setkey I colon
+
+# third row shifted
+setkey M C
+setkey C V
+setkey V B
+setkey K N
+setkey L M
